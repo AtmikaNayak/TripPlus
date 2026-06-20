@@ -61,15 +61,23 @@ The application can be expanded with booking systems, authentication, payment ga
 
 ### Home Page
 
-![Home](images/home.png)
+![Home](public/home.png)
 
 ### Destinations
 
-![Destinations](images/destinations.png)
+![Destinations](public/destinations.png)
+
+### Destinatiom
+
+![Packages](public/destination.png)
 
 ### Packages
 
-![Packages](images/packages.png)
+![Packages](public/packages.png)
+
+### Contact
+
+![Packages](public/contact.png)
 
 ## Additional Resources
 
